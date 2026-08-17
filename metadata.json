@@ -1,0 +1,6 @@
+{
+  "name": "HMK Labs",
+  "description": "Official business website for HMK Labs — building modern software, AI-powered solutions, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
